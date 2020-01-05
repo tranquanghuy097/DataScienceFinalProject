@@ -9,7 +9,11 @@ Sách hay: https://www.goodreads.com/list/show/264.Books_That_Everyone_Should_R
 
 Sách dở: https://www.goodreads.com/list/show/23974
 
-Số dòng: 10000
+Số dòng:
+
+Train: 3598
+
+Test: 1919
 
 Số cột: 5 (Genre, format, number of pages, language, good)
 
